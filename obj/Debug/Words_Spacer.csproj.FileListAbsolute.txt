@@ -1,0 +1,8 @@
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\bin\Debug\Words_Spacer.exe.config
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\bin\Debug\Words_Spacer.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\bin\Debug\Words_Spacer.pdb
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\obj\Debug\Words_Spacer.csproj.AssemblyReference.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\obj\Debug\Words_Spacer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\obj\Debug\Words_Spacer.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\obj\Debug\Words_Spacer.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Words_Spacer\obj\Debug\Words_Spacer.pdb
